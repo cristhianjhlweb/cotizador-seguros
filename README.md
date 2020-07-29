@@ -1,3 +1,14 @@
+# Proyecto de cotizador de seguros para vehículos
+
+Un proyecto sencillo donde se ven varias caracteristicas de Reactjs como:
+
+- React Components
+- States, useEffects
+- Styled Components
+- Helpers
+
+Puedes ver el demo en vivo aquí [Cotizador Seguros](https://sharp-almeida-4ea2e5.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
