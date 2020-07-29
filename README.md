@@ -1,6 +1,6 @@
 # Proyecto de cotizador de seguros para vehículos
 
-Un proyecto sencillo donde se ven varias caracteristicas de Reactjs como:
+Un proyecto sencillo donde se ven varias características de Reactjs como:
 
 - React Components
 - States, useEffects
